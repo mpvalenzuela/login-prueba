@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Clave</string>
+    <string name="reingrese_clave">Reingrese clave</string>
+    <string name="correo">Correo</string>
+    <string name="registrar">Registrar</string>
+    <string name="obligatorio">Obligatorio</string>
+    <string name="error_reingreso_clave">Debe ser igual a la clave</string>
+</resources>

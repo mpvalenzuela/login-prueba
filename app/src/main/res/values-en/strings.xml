@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="usuario">User</string>
+    <string name="clave">Password</string>
+    <string name="reingrese_clave">Retype password</string>
+    <string name="correo">Email</string>
+    <string name="registrar">Register</string>
+    <string name="obligatorio">Requerid</string>
+    <string name="error_reingreso_clave">Password have to be the same</string>
+</resources>
